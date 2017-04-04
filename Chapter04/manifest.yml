@@ -8,4 +8,4 @@ applications:
   disk_quota: 1024M
   services:
     - Speech to Text-zq
-	- Text to Speech-qg
+    - Text to Speech-qg
