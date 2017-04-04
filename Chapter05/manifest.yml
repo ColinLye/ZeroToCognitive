@@ -1,10 +1,10 @@
 applications:
 - path: .
-  memory: 256M
+  memory: 128M
   instances: 1
-  domain: mybluemix.net
-  name: Z2C
-  host: Z2C
+  domain: eu-gb.mybluemix.net
+  name: Z2C-ColinLye-Chap3
+  random-route: true
   disk_quota: 1024M
   services:
     - Speech to Text-zq
